@@ -1,0 +1,8 @@
+Jenny	Johnson	18	W	20.50
+Tommy	Lee	20	S	15.00
+Sara	Coren	24	S	50.75
+Tom	Brown	18	W	15.50
+Jane	Plump	19	S	22.25
+Stephen	Spills	21	N	20.00
+Penny	Manny	18	S	13.75
+Nicoh	Carter	19	W	100.0
